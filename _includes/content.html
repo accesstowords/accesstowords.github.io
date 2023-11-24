@@ -1,0 +1,51 @@
+<div name="controls" style="
+    position:absolute; 
+    z-index: 5; 
+    left: 40px; 
+    width: 258px; 
+    height: 260px; 
+    top: 550px;">
+    <img src="/previous.png" alt="Previous clip" onclick="previousClip()">
+    <img src="/replay.png" alt="Replay clip" onclick="replayClip()">
+    <img src="/sound.png" alt="Turn spoken words on or off" onclick="toggleAudio()">
+    <img src="/read.png" alt="Swap between original and easy-read wording" onclick="toggleEasyRead()">
+    <img src="/next.png" alt="Next clip" onclick="nextClip()">
+</div>
+{% for item in site.data.script %}
+<div name="translation{{item.sequence}}" style="z-index: 2;">
+    <div class="bfi" style="
+        padding-left: 32;">
+        <video width="260" height="260" muted autoplay playsinline
+            style="position:absolute; top: 25px; left: 0px; padding: 40px;">
+            <source src="{{item.translations[3]['video']}}">
+        </video>
+    </div>
+    <div class="engb" 
+        style="
+        position:absolute;  
+        z-index: 3; 
+        scroll-behavior: auto;
+        overflow-y: hidden;
+        background-color: white;
+        left: 48px; width: 244px; height: 230px; top: 324px; scroll-behavior: smooth;">
+        <small>{{ item.translations[0]['engb'] }}</small>
+        <audio class="standardenglish" autoplay>
+            <source src="{{item.translations[4]['audioengb']}}" type="audio/mpeg">
+        </audio>
+    </div>    
+    <div class="engbsimple" 
+    style="
+        display: none;
+        position:absolute;  
+        z-index: 3; 
+        scroll-behavior: auto;
+        overflow-y: hidden;
+        background-color: white;
+        left: 48px; width: 244px; height: 230px; top: 324px; scroll-behavior: smooth;">
+        <small>{{ item.translations[1]['engbsimple'] }}</small>
+        <audio class="simpleenglish" autoplay>
+            <source src="{{item.translations[5]['audioengbsimple']}}" type="audio/mpeg">
+        </audio>
+    </div>
+</div>
+{% endfor %}

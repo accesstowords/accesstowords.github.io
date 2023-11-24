@@ -1,0 +1,125 @@
+- sequence: 1
+  translations:
+  - engb: <center><b>Make Words Work</b></center>
+  - engbsimple: Make Words Work
+  - bfi: /assets/videos/01-make-words-accessible.mp4
+  - video: https://cdn.api.video/vod/vi4U0OBsEBijKZQTYdchjh67/mp4/1080/source.mp4
+  - audioengb: /assets/audio/en-gb-01-make-words-work.mp3
+  - audioengbsimple: /assets/audio/en-gb-simple-01-make-words-work.mp3
+- sequence: 2
+  translations:
+  - engb: Helping your customers understand your emails and letters with spoken words,
+      sign language, and easy-read simple English.
+  - engbsimple: We want to make sure that everyone can understand our emails and
+      letters. We will use spoken words, sign language, and easy-to-read English to
+      make this happen.
+  - bfi: /assets/videos/02-helping-your-customers.mp4
+  - video: https://cdn.api.video/vod/vi4iBfZUKpBJM9EcrVTd1CWZ/mp4/1080/source.mp4
+  - audioengb: /assets/audio/en-gb-02-helping-your-customers.mp3
+  - audioengbsimple: /assets/audio/en-gb-simple-02-helping-your-customers.mp3
+- sequence: 3
+  translations:
+  - engb: Bulk communications made accessible for people who prefer British Sign
+      Language, spoken words, easy-read simple English, and foreign languages.
+  - engbsimple: We can make it easier for people to understand important information,
+      even if they prefer to use sign language, talk, read simple English, or speak
+      other languages.
+  - bfi: /assets/videos/03-bulk-communications-made.mp4
+  - video: https://cdn.api.video/vod/vi6z06xfheoovH1Oqj6TQLiR/mp4/1080/source.mp4
+  - audioengb: /assets/audio/en-gb-03-bulk-communications-made.mp3
+  - audioengbsimple: /assets/audio/en-gb-simple-03-bulk-communications-made.mp3
+- sequence: 4
+  translations:
+  - engb: Improving customer comprehension for reach and compliance.
+  - engbsimple: Making sure customers understand things better.
+  - bfi: /assets/videos/04-improving-customer-comprehension.mp4
+  - video: https://cdn.api.video/vod/vi7WqUWkrUFWTvBb0MfsVZRo/mp4/1080/source.mp4
+  - audioengb: /assets/audio/en-gb-04-improving-customer-comprehension.mp3
+  - audioengbsimple: /assets/audio/en-gb-simple-04-improving-customer-comprehension.mp3
+- sequence: 5
+  translations:
+  - engb: Written words are a problem for millions of adults.  For a variety of reasons,
+      English literacy is a barrier for 8 million adults.
+  - engbsimple: Many adults struggle with reading and writing. English is tough
+      for 8 million adults for different reasons.
+  - bfi: /assets/videos/05-written-words-are.mp4
+  - video: https://cdn.api.video/vod/vi5puHaOhaySeGCWPklO58p4/mp4/1080/source.mp4
+  - audioengb: /assets/audio/en-gb-05-written-words-are.mp3
+  - audioengbsimple: /assets/audio/en-gb-simple-05-written-words-are.mp3
+- sequence: 6
+  translations:
+  - engb: English is not the first langauge of 4 million adults living in the UK.  2%
+      of the adult population does not speak English, and many of those who do, find
+      English literacy a challenge.
+  - engbsimple: 4 million adults in the UK don't speak English as their first language.
+      2% of adults can't speak English, and many who can, find reading and writing
+      in English challenging.
+  - bfi: /assets/videos/06-english-is-not.mp4
+  - video: https://cdn.api.video/vod/vi6HhgSYptaa2xWLmCbD9BRa/mp4/1080/source.mp4
+  - audioengb: /assets/audio/en-gb-06-english-is-not.mp3
+  - audioengbsimple: /assets/audio/en-gb-simple-06-english-is-not.mp3
+- sequence: 7
+  translations:
+  - engb: Of 150,000 people who use British Sign Language, more than half rely on
+      BSL as their first or only language.  BSL is a different language to English,
+      and there is no written form.
+  - engbsimple: 150,000 people use British Sign Language. Over half use it as their
+      main language. British Sign Language is not like English.
+  - bfi: /assets/videos/07-of-150000-people
+  - video: https://cdn.api.video/vod/vi1e7X1PCnjfPxBh20xhGPDZ/mp4/1080/source.mp4
+  - audioengb: /assets/audio/en-gb-07-of-150000-people.mp3
+  - audioengbsimple: /assets/audio/en-gb-simple-07-of-150000-people.mp3
+- sequence: 8
+  translations:
+  - engb: Spoken words might be the only way for 1 in 20 British adults with sight
+      loss to recieve your messaging.
+  - engbsimple: 1 in 20 British adults who can't see well may only understand your
+      messages if you say them out loud.
+  - bfi: /assets/videos/08-spoken-words-might.mp4
+  - video: https://cdn.api.video/vod/vi3aFGjbZxqIhpQAtyGtFBvq/mp4/1080/source.mp4
+  - audioengb: /assets/audio/en-gb-08-spoken-words-might.mp3
+  - audioengbsimple: /assets/audio/en-gb-simple-08-spoken-words-might.mp3
+- sequence: 9
+  translations:
+  - engb: As much as 20% of the UK population finds reading difficult, and prefer
+      spoken to written words.  4% of adults are classified as having severe literacy
+      difficulty.
+  - engbsimple: 1 person in every 5 finds reading hard. 1 person in every 25 cannot
+      read at all.
+  - bfi: /assets/videos/09-as-much-as.mp4
+  - video: https://cdn.api.video/vod/vi5D7eA4AgdgBSupbncYcHRm/mp4/1080/source.mp4
+  - audioengb: /assets/audio/en-gb-09-as-much-as.mp3
+  - audioengbsimple: /assets/audio/en-gb-simple-09-as-much-as.mp3
+- sequence: 10
+  translations:
+  - engb: 'REACH: More people will benefit from your promotions and offers. <br />  REGULATION:
+      Improve compliance of critical customer messaging.'
+  - engbsimple: More people will enjoy your promotions and deals. Make sure important
+      customer messages are followed correctly.
+  - bfi: /assets/videos/10-reach-more-people.mp4
+  - video: https://cdn.api.video/vod/vi5WEmeOmZg3ORK5y4FL6Owf/mp4/1080/source.mp4
+  - audioengb: /assets/audio/en-gb-10-reach-more-people.mp3
+  - audioengbsimple: /assets/audio/en-gb-simple-10-reach-more-people.mp3
+- sequence: 11
+  translations:
+  - engb: Mass mail, in electronic or printed form, can be made more inclusive and
+      accessible.  You might not know which of your customers are not going to read
+      your messages.  Our unique artificial intelligence means that you don't need
+      to know - hundreds of thousands or even millions of personalised versions of
+      your comms can be generated for just a few pennies per customer.
+  - engbsimple: Make emails or letters easy for lots of people. We can help people
+      understand.
+  - bfi: /assets/videos/11-mass-mail-in.mp4
+  - video: https://cdn.api.video/vod/vi3EtO4dh0mjg00eB4XotJEL/mp4/1080/source.mp4
+  - audioengb: /assets/audio/en-gb-11-mass-mail-in.mp3
+  - audioengbsimple: /assets/audio/en-gb-simple-11-mass-mail-in.mp3
+- sequence: 12
+  translations:
+  - engb: We automatically process, translate, and present your personalised bulk
+      communications as compelling multi-media presentations.
+  - engbsimple: We use technology to turn many messages into interesting videos
+      and words and sounds.
+  - bfi: /assets/videos/12-we-automatically-process.mp4
+  - video: https://cdn.api.video/vod/vijEhuNpLDSJcgrKkmegezX/mp4/1080/source.mp4
+  - audioengb: /assets/audio/en-gb-12-we-automatically-process.mp3
+  - audioengbsimple: /assets/audio/en-gb-simple-12-we-automatically-process.mp3

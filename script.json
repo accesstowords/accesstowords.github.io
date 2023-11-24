@@ -1,0 +1,72 @@
+[
+{"sequence": 1,
+"translations":[
+{"en-gb":"Make words work"},
+{"en-gb-simple":"Make words work"},
+{"bfi":"IDLE_short,VERB_communicate,VERB_make,ADJ_accessible,IDLE_short"}]},
+
+{"sequence": 2,
+"translations":[
+{"en-gb":"Helping your customers understand your emails and letters with spoken words, sign language, and easy-read simple English."},
+{"en-gb-simple":"We want to make sure that everyone can understand our emails and letters. We will use spoken words, sign language, and easy-to-read English to make this happen."},
+{"bfi":"IDLE_short,VERB_help,NOUN_people,VERB_understand,NOUN_email,CONJ_or,NOUN_mail,ADV_how,SPELL_b,SPELL_s,SPELL_l,ADJ_sign,NOUN_language,CONJ_or,VERB_talk,CONJ_or,ADJ_easy,VERB_read,IDLE_short"}]},
+
+{"sequence": 3,
+"translations":[
+{"en-gb":"Bulk communications made accessible for people who prefer British Sign Language, spoken words, easy-read simple English, and foreign languages."},
+{"en-gb-simple":"We can make it easier for people to understand important information, even if they prefer to use sign language, talk, read simple English, or speak other languages."},
+{"bfi":"IDLE_short,ADJ_many,NOUN_people,AUX_must,VERB_have,NOUN_email,CONJ_or,NOUN_mail,COPNJ_but,VERB_prefer,NOUN_sign,CONJ_or,VERB_talk,CONJ_or,ADJ_easy,VERB_read,CONJ_or,ADJ_other,NOUN_language,IDLE_short"}]},
+
+{"sequence": 4,
+"translations":[
+{"en-gb":"Improving customer comprehension for reach and compliance."},
+{"en-gb-simple":"Making sure customers understand things better."},
+{"bfi":"IDLE_short,VERB_improve,VERB_understand,ADV_why,VERB_achieve,ADJ_more,VERB_sell,CONJ_or,VERB_achieve,ADJ_more,NOUN_regulation,IDLE_short"}]},
+
+{"sequence": 5,
+"translations":[
+{"en-gb":"Written words are a problem for millions of adults.  For a variety of reasons, English literacy is a barrier for 8 million adults."},
+{"en-gb-simple":"Many adults struggle with reading and writing. English is tough for 8 million adults for different reasons."},
+{"bfi":"IDLE_short,ADJ_many,NOUN_people,VERB_read,ADJ_difficult,IDLE_short,NUM_eight,NUM,NUM_million,NOUN_people,VERB_cannot,VERB_read,IDLE_short"}]},
+
+{"sequence": 6,
+"translations":[
+{"en-gb":"English is not the first langauge of 4 million adults living in the UK.  2% of the adult population does not speak English, and many of those who do, find English literacy a challenge."},
+{"en-gb-simple":"4 million adults in the UK don't speak English as their first language. 2% of adults can't speak English, and many who can, find reading and writing in English challenging."},
+{"bfi":"IDLE_short,NUM_four,NUM_million,NOUN_people,PROP_english,ADJ_foreign,NOUN_language,IDLE_short,NUM_two,NOUN_percent,VERB_cannot,VERB_speak,PROP_english,IDLE_short,ADJ_many,NOUN_people,VERB_read,PROP_english,ADJ_difficult,IDLE_short"}]},
+
+{"sequence": 7,
+"translations":[
+{"en-gb":"Of 150,000 people who use British Sign Language, more than half rely on BSL as their first or only language.  BSL is a different language to English, and there is no written form."},
+{"en-gb-simple":"150,000 people use British Sign Language. Over half use it as their main language. British Sign Language is not like English."},
+{"bfi":"IDLE_short,NUM_one,NUM_hundred,NUM_fifty,NUM_thousand,NOUN_people,VERB_use,SPELL_b,SPELL_s,SPELL_l,ADJ_sign,NOUN_language,IDLE_short,NUM_half,AUX_do_aux_PART_not_neg_VERB_like,VERB_read,IDLE_short"}]},
+
+{"sequence": 8,
+"translations":[
+{"en-gb":"Spoken words might be the only way for 1 in 20 British adults with sight loss to recieve your messaging."},
+{"en-gb-simple":"1 in 20 British adults who can't see well may only understand your messages if you say them out loud."},
+{"bfi":"IDLE_short,NUM_one_over_twenty,NOUN_people,ADJ_blind,IDLE_short,AUX_must,VERB_hear,VERB_cannot,VERB_read,IDLE_short"}]},
+
+{"sequence": 9,
+"translations":[
+{"en-gb":"As much as 20% of the UK population finds reading difficult, and prefer spoken to written words.  4% of adults are classified as having severe literacy difficulty."},
+{"en-gb-simple":"1 person in every 5 finds reading hard. 1 person in every 25 cannot read at all."},
+{"bfi":"IDLE_short,NUM_20,NOUN_percent,VERB_read,VERB_have,ADJ_difficult,VERB_prefer,VERB_hear,IDLE_short,NUM_four,NOUN_percent,VERB_read,ADJ_impossible,IDLE_short"}]},
+
+{"sequence": 10,
+"translations":[
+{"en-gb":"REACH: More people will benefit from your promotions and offers.  REGULATION: Improve compliance of critical customer messaging."},
+{"en-gb-simple":"More people will enjoy your promotions and deals. Make sure important customer messages are followed correctly."},
+{"bfi":"IDLE_short,ADJ_more,NOUN_people,VERB_see,VERB_have,PRON_your,NOUN_advert,IDLE_short,VERB_inform,NOUN_people,IDLE_short"}]},
+
+{"sequence": 11,
+"translations":[
+{"en-gb":"Mass mail, in electronic or printed form, can be made more inclusive and accessible.  You might not know which of your customers are not going to read your messages.  Our unique artificial intelligence means that you don't need to know - hundreds of thousands or even millions of personalised versions of your comms can be generated for just a few pennies per customer."},
+{"en-gb-simple":"Make emails or letters easy for lots of people. We can help people understand."},
+{"bfi":"IDLE_short,VERB_post,ADJ_many,CONJ_or,NOUN_email,ADJ_many,ADJ_personal,ADJ_inclusive,ADJ_accessible,IDLE_short,ADV_maybe,VERB_donotknow,NOUN_people,VERB_need,ADJ_accessible,PRON_which,PRON_our,VERB_make,VERB_million,ADJ_personal,NOUN_mail,CCONJ_or,NOUN_email,VERB_go,PRON_all,ADJ_cheap,IDLE_short"}]},
+ 
+{"sequence": 12,
+"translations":[
+{"en-gb":"We automatically process, translate, and present your personalised bulk communications as compelling multi-media presentations."},
+{"en-gb-simple":"We use technology to turn many messages into interesting videos and words and sounds."},
+{"bfi":"IDLE_short,PRON_us,SPELL_a,SPELL_i,NOUN_technology,VERB_translate,VERB_present,NOUN_email,CONJ_or,NOUN_mail,VERB_make,NOUN_video,CONJ_or,NOUN_sound,CONJ_or,ADJ_easy,VERB_read,IDLE_short"}]}]

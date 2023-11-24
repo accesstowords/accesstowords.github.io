@@ -1,0 +1,31 @@
+body { font-family:'Poppins', sans-serif; }
+.fixed-banner {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: white;
+  height: 88px;
+  padding: 10px;
+  z-index: 1;
+}
+.fixed-left {
+  position: fixed;
+  top: 100px;
+  left: 0;
+  width: 350px;
+  height: 100vh;
+  background-color: white;
+  padding: 20px;
+  overflow-y: auto;
+}
+.scrollable-right {
+  position: relative;
+  top: 100px;
+  left: 320px;
+  width: calc(100% - 350px);
+  height: 100vh;
+  background-color: #fff;
+  padding: 20px;
+  overflow-y: auto;
+}
