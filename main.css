@@ -1,4 +1,17 @@
 body { font-family:'Poppins', sans-serif; }
+
+@media only screen and (max-width: 500px){
+  .desktoponly{
+        display: none;
+  }
+}
+
+@media only screen and (min-width: 501px){
+  .mobileonly{
+        display: none;
+  }
+}
+
 .fixed-banner {
   position: fixed;
   top: 0;

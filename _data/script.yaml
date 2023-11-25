@@ -6,6 +6,8 @@
   - video: https://cdn.api.video/vod/vi4U0OBsEBijKZQTYdchjh67/mp4/1080/source.mp4
   - audioengb: /assets/audio/en-gb-01-make-words-work.mp3
   - audioengbsimple: /assets/audio/en-gb-simple-01-make-words-work.mp3
+  - cy: Gwneud i Eiriau Weithio
+  - audiocy: /assets/audio/cy-simple-01-make-words-work.mp3
 - sequence: 2
   translations:
   - engb: Helping your customers understand your emails and letters with spoken words,
@@ -17,6 +19,8 @@
   - video: https://cdn.api.video/vod/vi4iBfZUKpBJM9EcrVTd1CWZ/mp4/1080/source.mp4
   - audioengb: /assets/audio/en-gb-02-helping-your-customers.mp3
   - audioengbsimple: /assets/audio/en-gb-simple-02-helping-your-customers.mp3
+  - cy: Helpu'ch cwsmeriaid i ddeall eich e-byst a'ch llythyrau gyda geiriau llafar, iaith arwyddion, a thestun syml hawdd ei ddarllen.
+  - audiocy: /assets/audio/cy-02-helping-your-customers.mp3
 - sequence: 3
   translations:
   - engb: Bulk communications made accessible for people who prefer British Sign
@@ -28,6 +32,8 @@
   - video: https://cdn.api.video/vod/vi6z06xfheoovH1Oqj6TQLiR/mp4/1080/source.mp4
   - audioengb: /assets/audio/en-gb-03-bulk-communications-made.mp3
   - audioengbsimple: /assets/audio/en-gb-simple-03-bulk-communications-made.mp3
+  - cy: Cyfathrebiadau swmp yn cael eu gwneud yn hygyrch i bobl y mae'n well ganddynt Iaith Arwyddion, geiriau llafar, ac ieithoedd eraill.
+  - audiocy: /assets/audio/03-bulk-communications-made
 - sequence: 4
   translations:
   - engb: Improving customer comprehension for reach and compliance.
@@ -36,6 +42,8 @@
   - video: https://cdn.api.video/vod/vi7WqUWkrUFWTvBb0MfsVZRo/mp4/1080/source.mp4
   - audioengb: /assets/audio/en-gb-04-improving-customer-comprehension.mp3
   - audioengbsimple: /assets/audio/en-gb-simple-04-improving-customer-comprehension.mp3
+  - cy: Gwella dealltwriaeth cwsmeriaid o ran cyrhaeddiad a chydymffurfiaeth.
+  - audiocy: /assets/audio/cy-04-improving-customer-comprehension
 - sequence: 5
   translations:
   - engb: Written words are a problem for millions of adults.  For a variety of reasons,
@@ -46,9 +54,11 @@
   - video: https://cdn.api.video/vod/vi5puHaOhaySeGCWPklO58p4/mp4/1080/source.mp4
   - audioengb: /assets/audio/en-gb-05-written-words-are.mp3
   - audioengbsimple: /assets/audio/en-gb-simple-05-written-words-are.mp3
+  - cy: Mae geiriau ysgrifenedig yn broblem i filiynau o oedolion. Am amrywiaeth o resymau, mae llythrennedd Saesneg yn rhwystr i 8 miliwn o oedolion.
+  - audiocy: /assets/audio/cy-05-written-words-are.mp3
 - sequence: 6
   translations:
-  - engb: English is not the first langauge of 4 million adults living in the UK.  2%
+  - engb: English is not the first language of 4 million adults living in the UK.  2%
       of the adult population does not speak English, and many of those who do, find
       English literacy a challenge.
   - engbsimple: 4 million adults in the UK don't speak English as their first language.
@@ -58,6 +68,8 @@
   - video: https://cdn.api.video/vod/vi6HhgSYptaa2xWLmCbD9BRa/mp4/1080/source.mp4
   - audioengb: /assets/audio/en-gb-06-english-is-not.mp3
   - audioengbsimple: /assets/audio/en-gb-simple-06-english-is-not.mp3
+  - cy: Nid Saesneg yw iaith gyntaf 4 miliwn o oedolion sy’n byw yn y DU. Nid yw 2% o’r boblogaeth oedolion yn siarad Saesneg, ac mae llythrennedd Saesneg yn her i lawer o’r rhai sy’n siarad Saesneg.
+  - audiocy: /assets/audio/cy-06-english-is-not.mp3
 - sequence: 7
   translations:
   - engb: Of 150,000 people who use British Sign Language, more than half rely on
@@ -69,6 +81,8 @@
   - video: https://cdn.api.video/vod/vi1e7X1PCnjfPxBh20xhGPDZ/mp4/1080/source.mp4
   - audioengb: /assets/audio/en-gb-07-of-150000-people.mp3
   - audioengbsimple: /assets/audio/en-gb-simple-07-of-150000-people.mp3
+  - cy: O'r 150,000 o bobl sy'n defnyddio Iaith Arwyddion Prydain, mae mwy na hanner yn dibynnu ar BSL fel eu hiaith gyntaf neu eu hunig iaith. Mae BSL yn iaith wahanol i Saesneg, ac nid oes ffurf ysgrifenedig.
+  - audiocy: /assets/audio/cy-07-of-150000-people.mp3
 - sequence: 8
   translations:
   - engb: Spoken words might be the only way for 1 in 20 British adults with sight
@@ -79,6 +93,8 @@
   - video: https://cdn.api.video/vod/vi3aFGjbZxqIhpQAtyGtFBvq/mp4/1080/source.mp4
   - audioengb: /assets/audio/en-gb-08-spoken-words-might.mp3
   - audioengbsimple: /assets/audio/en-gb-simple-08-spoken-words-might.mp3
+  - cy: Efallai mai geiriau llafar yw’r unig ffordd i 1 o bob 20 o oedolion ym Mhrydain sydd wedi colli eu golwg dderbyn eich negeseuon.
+  - audiocy: /assets/audio/cy-08-spoken-words-might.mp3
 - sequence: 9
   translations:
   - engb: As much as 20% of the UK population finds reading difficult, and prefer
@@ -90,6 +106,8 @@
   - video: https://cdn.api.video/vod/vi5D7eA4AgdgBSupbncYcHRm/mp4/1080/source.mp4
   - audioengb: /assets/audio/en-gb-09-as-much-as.mp3
   - audioengbsimple: /assets/audio/en-gb-simple-09-as-much-as.mp3
+  - cy: Mae cymaint ag 20% o boblogaeth y DU yn ei chael hi'n anodd darllen, ac mae'n well ganddynt siarad â geiriau ysgrifenedig. Mae 4% o oedolion yn cael eu dosbarthu fel rhai ag anhawster llythrennedd difrifol.
+  - audiocy: /assets/audio/cy-09-as-much-as.mp3
 - sequence: 10
   translations:
   - engb: 'REACH: More people will benefit from your promotions and offers. <br />  REGULATION:
@@ -100,6 +118,8 @@
   - video: https://cdn.api.video/vod/vi5WEmeOmZg3ORK5y4FL6Owf/mp4/1080/source.mp4
   - audioengb: /assets/audio/en-gb-10-reach-more-people.mp3
   - audioengbsimple: /assets/audio/en-gb-simple-10-reach-more-people.mp3
+  - cy: CYRRAEDD - Bydd mwy o bobl yn elwa o'ch hyrwyddiadau a'ch cynigion.  <br />RHEOLIAD - Gwella cydymffurfiad â negeseuon hanfodol cwsmeriaid.
+  - audiocy: /assets/audio/cy-10-reach-more-people.mp3
 - sequence: 11
   translations:
   - engb: Mass mail, in electronic or printed form, can be made more inclusive and
@@ -113,6 +133,8 @@
   - video: https://cdn.api.video/vod/vi3EtO4dh0mjg00eB4XotJEL/mp4/1080/source.mp4
   - audioengb: /assets/audio/en-gb-11-mass-mail-in.mp3
   - audioengbsimple: /assets/audio/en-gb-simple-11-mass-mail-in.mp3
+  - cy: Gellir gwneud e-byst a llythyrau yn fwy cynhwysol a hygyrch. Mae ein deallusrwydd artiffisial unigryw yn golygu y gellir cynhyrchu cannoedd o filoedd neu hyd yn oed filiynau o fersiynau personol o'ch neges am ychydig geiniogau fesul cwsmer.
+  - audiocy: /assets/audio/cy-11-mass-mail-in.mp3
 - sequence: 12
   translations:
   - engb: We automatically process, translate, and present your personalised bulk
@@ -123,3 +145,5 @@
   - video: https://cdn.api.video/vod/vijEhuNpLDSJcgrKkmegezX/mp4/1080/source.mp4
   - audioengb: /assets/audio/en-gb-12-we-automatically-process.mp3
   - audioengbsimple: /assets/audio/en-gb-simple-12-we-automatically-process.mp3
+  - cy: Rydym yn prosesu, cyfieithu a chyflwyno eich cyfathrebiadau swmp personol yn awtomatig fel cyflwyniadau aml-gyfrwng cymhellol.
+  - audiocy: /assets/audio/cy-12-we-automatically-process.mp3
