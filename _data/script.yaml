@@ -6,7 +6,7 @@
   - video: https://cdn.api.video/vod/vi2XxNVEj7kgqra5cljg9Fys/mp4/1080/source.mp4
   - audioengb: /assets/audio/en-gb-01-make-words-work.mp3
   - audioengbsimple: /assets/audio/en-gb-simple-01-make-words-work.mp3
-  - cy: Gwneud i Eiriau Weithio
+  - cy: <center><b>Gwneud i Eiriau Weithio</b></center>
   - audiocy: /assets/audio/cy-simple-01-make-words-work.mp3
 - sequence: 2
   translations:

@@ -29,7 +29,7 @@
         background-color: white;
         left: 48px; width: 244px; height: 230px; top: 324px; scroll-behavior: smooth;">
         <small>{{ item.translations[0]['engb'] }}</small>
-        <audio class="standardenglish" autoplay>
+        <audio class="audioengb" autoplay>
             <source src="{{item.translations[4]['audioengb']}}" type="audio/mpeg">
         </audio>
     </div>    
@@ -43,9 +43,37 @@
         background-color: white;
         left: 48px; width: 244px; height: 230px; top: 324px; scroll-behavior: smooth;">
         <small>{{ item.translations[1]['engbsimple'] }}</small>
-        <audio class="simpleenglish" autoplay>
+        <audio class="audioengbsimple" autoplay>
             <source src="{{item.translations[5]['audioengbsimple']}}" type="audio/mpeg">
         </audio>
     </div>
+    <div class="cy" 
+        style="
+        position:absolute;  
+        z-index: 3; 
+        scroll-behavior: auto;
+        overflow-y: hidden;
+        background-color: white;
+        left: 48px; width: 244px; height: 230px; top: 324px; scroll-behavior: smooth;">
+        <small>{{ item.translations[6]['cy'] }}</small>
+        <audio class="audiocy" autoplay>
+            <source src="{{item.translations[7]['audiocy']}}" type="audio/mpeg">
+        </audio>
+    </div>    
+    <div class="cysimple" 
+    style="
+        display: none;
+        position:absolute;  
+        z-index: 3; 
+        scroll-behavior: auto;
+        overflow-y: hidden;
+        background-color: white;
+        left: 48px; width: 244px; height: 230px; top: 324px; scroll-behavior: smooth;">
+        <small>{{ item.translations[6]['cy'] }}</small>
+        <audio class="audiocysimple" autoplay>
+            <source src="{{item.translations[7]['audiocy']}}" type="audio/mpeg">
+        </audio>
+    </div>
+
 </div>
 {% endfor %}
