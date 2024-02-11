@@ -1,0 +1,24 @@
+- testimonial: NHS
+  logo: /testimonials/images/nhs.png
+  quote: 
+  link: https://www.nhs.uk/
+- testimonial: AI for Good
+  logo: /testimonials/images/rosette.png
+  quote: 
+  link: https://www.superconnectforgood.org/
+- testimonial: EU Parliament
+  logo: /testimonials/images/eu.png
+  quote:
+  link: https://www.europarl.europa.eu/portal/en
+- testimonial: DTG
+  logo: /testimonials/images/dtg.png
+  quote:
+  link: https://www.bbc.co.uk/
+- testimonial: BT
+  logo: /testimonials/images/bt.png
+  quote:
+  link: https://bt.com/
+- testimonial: Sky
+  logo: /testimonials/images/sky.png
+  quote:
+  link: https://www.sky.com/

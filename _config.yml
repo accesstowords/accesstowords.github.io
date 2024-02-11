@@ -1,6 +1,31 @@
-email_address                             : info@accesstowords.com
-facebook_username                         : accesstowords                                          
-instagram_username                        : accesstowords
-twitter_username                          : accesstowords
-github_username                           : accesstowords
-youtube_username                          : accesstowords
+# Site settings
+title: Access to Words 
+tagline: "Accessible Communications at Scale: Sign Language, Easy-Read, Spoken Word, Foreign Languages"
+url: "https://accesstowords.com/" 
+
+slogans:
+  first: Extend your reach to 4 million customers across the UK
+  second: |
+    Translating your content into British Sign Language, Easy-Read simplified English, spoken words and foreign languages for more complete accessibility.
+
+# Social
+socialimg: /images/favicon.png
+twitter: accesstowords
+linkined: accesstowords
+logo: /images/primarylogo4.png
+
+# Contact
+phone: "01603 290002" 
+email: "info@accesstowords.co.uk"
+address: "Access to Words, Riverside Business Centre, 61-63 Riverside Road, Norwich NR1 1SR, United Kingdom"
+
+# Use this for production
+sass:
+  style: compressed
+
+exclude: [.scss, README.md, node_modules, gruntfile.js, package.json]
+
+permalink: /404.html.
+
+plugins:
+  - jekyll-feed

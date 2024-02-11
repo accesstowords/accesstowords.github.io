@@ -1,0 +1,8 @@
+<div class = 'sectors grid-3'>
+    {% for sector in site.data.sectors %}
+      <a class = 'center vcenter' {% if sector.link %}href='{{ sector.link }}'{% endif %} {% if sector.target %}target='{{ sector.target }}'{% endif %}>
+        <img src = '{{ sector.logo }}' alt = '{{ sector.name }}' class = 'sector'/>
+      </a>
+    {% endfor %}
+    </div>
+    

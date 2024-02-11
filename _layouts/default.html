@@ -1,11 +1,17 @@
 <!DOCTYPE html>
-<html lang="en-us">
+<html lang = 'en-GB'>
+  <head>
+    {%- include head.html -%}
+  </head>
+  <body>
+    <header>
+    {%- include nav.html -%}
+  </header>
+    <main {% if page.class %}class='{{ page.class }}'{% endif %}>
+      {{ content }}
+    </main>
+    {%- include footer.html -%}
+  </body>
+  {%- include foot.html -%}
 
-{% include head.html %}
-
-<body>
-{% include header.html %}
-{{ content }}
-{% include footer.html %}
-</body>
 </html>

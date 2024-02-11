@@ -1,0 +1,128 @@
+---
+layout: default
+---
+<div>
+    <!-- Page Banner Start -->
+     <div class="section page-banner-section" 
+     {% if page.image And page.image != "" And page.image != nil %}
+     style="background-image: url({{page.image}});"
+     {%else %}
+        style="background-image: url(/images/cassie.png);"
+        {% endif %}>
+                    <div class="page-banner-wrap">
+                        <div class="row">
+                            <div class="col-lg-12 herodrop">
+                                <!-- Page Banner Content Start -->
+                                <div class="page-banner text-center">
+                                    <h2 class="title">{{page.title}}</h2>
+                                    <ul class="breadcrumb justify-content-center">
+                                        <li class="breadcrumb-item"><a href="/">Home</a></li>
+                                        <li class="breadcrumb-item active" aria-current="page">{{page.title}}</li>
+                                    </ul>
+                                </div>
+                                <!-- Page Banner Content End -->
+                            </div>
+                        </div>
+                </div>
+            </div>
+            <!-- Page Banner End -->
+            <!-- Service Single Start -->
+            <div class="corpix-service-single section section-padding">
+                <div class="container">
+                    <div class="service-single-wrap">
+                        <div class="row">
+                            <div class="col-xl-3 col-lg-4">
+                                <!-- Service Sidebar Start -->
+                                <div class="service-sidebar">
+                                    <!-- Service Widget Start -->
+                                    <div class="service-widget">
+                                        <div class="service-category-list">
+                                            <h3 class="title">Services</h3>
+
+                                            <ul>
+                                                {%- for item in site.data.solutions %}
+                                                <li><a href = '{{ item.link }}'>{{ item.name }}<i class="fas fa-angle-right"></i></a></li>
+                                                {%- endfor %}
+                                            </ul>
+                                        </div>
+                                        <div class="service-category-list" style="margin-top:20px">
+                                            <h3 class="title">Sectors</h3>
+
+                                            <ul>
+                                                {%- for item in site.data.sectors %}
+                                                <li><a href = '{{ item.link }}'>{{ item.short }}<i class="fas fa-angle-right"></i></a></li>
+                                                {%- endfor %}
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <!-- Service Widget End -->
+                                    <!-- <div class="service-widget">
+                                        <div class="service-cta-btn">
+                                            <a class="btn btn-2" href="#"><i class="far fa-file-pdf"></i> Download File (PDF)</a>
+                                            <a class="btn" href="#"><i class="far fa-file-word"></i> Download File (Word)</a>
+                                        </div>
+                                    </div> -->
+                                    <!-- Service Widget Start -->
+                                    <div class="service-widget">
+                                        <!-- Cta Banner Start-->
+                                        <div class="cta-banner">
+                                            <div class="banner-img">
+                                                <img src="/images/cassie -300x316.png" alt="cassie">
+                                            </div>
+                                            <div class="banner-content">
+                                                <h3 class="title">Talk To Us Today</h3>
+                                                <div class="banner-info">
+                                                    <i class="flaticon-phone-call"></i>
+                                                    <span class="number"><a href="tel:01603 290002">01603 290002</a></span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- Cta Banner End-->
+                                    </div>
+                                    <!-- Service Widget End -->
+                                </div>
+                                <!-- Service Sidebar End -->
+                            </div>
+                            <div class="col-xl-8 col-lg-8">
+                                <!-- Service Single Content Start -->
+                                <div>
+                                    {{page.content | markdownify}}
+                                    <br /><br />
+                                    <ul>
+                                        <b>
+                                        <li><a href="/solutions/gazette">*Read about Sign Language translations on public information notices and signage</a> <br/></li>
+                                        <li><a href="/solutions/correspondent">*Read about Sign Language translations on posted letters, emails, and in customer portals</a> <br/></li>
+                                        <li><a href="/solutions/situation">*Read about situational-aware live announcements, information, and virtual help-points in BSL and English, available directly on visitors’ phones or on dedicated venue screens and displays</a> <br/></li>
+                                        <li><a href="/sectors/public-sector/departments">*Read articles relating to your department</a> <br/></li>
+                                        </b>
+                                    </ul>
+                                </div>
+                                <!-- Service Single Content End -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Service Single End -->
+    
+
+
+
+
+{%- include blogs.html %}
+<style>
+
+@media only screen and (min-width: 1024px) {
+
+    .page-banner-section {
+    align-items: flex-end;
+}
+.herodrop {
+    width: 70%;
+    max-width: 1400px;
+    background: #57C4C2;
+    padding: 20px;
+}
+.herodrop .title{font-size:45px}}
+</style>

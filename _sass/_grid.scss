@@ -1,0 +1,19 @@
+%grid{
+  display: grid !important;
+  grid-template-columns: 1fr;
+}
+
+[class*='grid'] {
+  @extend %grid;
+  grid-gap: 1rem 2.5rem;
+  // grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+}
+
+
+@media screen and (min-width: 56rem) {
+  @for $i from 2 through 4 {
+    .grid-#{$i} {
+      grid-template-columns: repeat($i, 1fr);
+    }
+  }
+}

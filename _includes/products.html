@@ -1,0 +1,7 @@
+{%- for item in site.data.solutions %}
+<a href="{{item.link}}">
+<b>{{item.name}}</b> <br />
+  <img src="{{item.hero}}" alt="{{item.name}}" style="max-height:200px"/></a><br />
+{{item.summary}}
+<br /><br />
+{%- endfor %}

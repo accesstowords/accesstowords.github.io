@@ -1,0 +1,45 @@
+- name: PostDoc
+  link: '/solutions/postdoc'
+  hero: /solutions/images/correspondent-nhs.png
+  summary: 'High volume accessibile mail-merge: Postal letters, customer web portals, and emails translated into sign language, simplified easy-read, spoken word, accessible typeface, and international languages on customers’ phones or computers.'
+  keywords: Always Accurate,engage,ad-ready,privacy,sign language,accessibility,inclusive,edi,dei
+- name: Helm
+  link: '/solutions/helm'
+  hero: /solutions/images/gazette-nhs-leeds-easy-read-breathing-control.png
+  summary: 'On-demand, accessible wayfinding and pedestrian navigation around complex campus sites, such as hospitals, universities, and retail parks.'
+  keywords: Always Accurate,instant,engage,ad-ready,privacy,customer service
+- name: Ride on Time
+  link: '/solutions/rideontime'
+  hero: /solutions/images/situation-platform-edge.png
+  summary: 'Situational-aware information, and virtual help-points in BSL and English, available directly on visitors’ phones.'
+  keywords: Always Accurate,instant,engage,location,ad-ready,privacy,announcments,customer service,way-finding
+# - name: Present
+#   link: '/solutions/present'
+#   hero: /solutions/images/present.png
+#   summary: 'Adding sign language translations to rolling information screens.'  
+#   keywords: Always Accurate,instant,totem,screen,location,ad-ready,privacy,announcments,customer service
+# - name: Helm
+#   link: '/solutions/helm'
+#   hero: /solutions/images/helm.png
+#   summary: 'The sign language-accessible pedestrian navigation solution for large venues, sites and complex buildings.'
+#   keywords: Always Accurate,instant,engage,location,ad-ready,privacy,announcments,way-finding
+# - name: Agent
+#   link: '/solutions/Agent'
+#   hero: /solutions/images/present.png
+#   summary: 'Adding sign language translations to interactive information screens.'
+#   keywords: Always Accurate,instant,engage,location,ad-ready,privacy,announcments,customer service,way-finding
+# - name: iCue
+#   link: '/solutions/icue'
+#   hero: /solutions/images/icue.png
+#   summary: 'On-the-go transliteration from spoken English to Cued Speech.'
+#   keywords: instant,privacy
+# - name: iSign
+#   link: '/solutions/iSign'
+#   hero: /solutions/images/icue.png
+#   summary: 'On-the-go transliteration from spoken English to British Sign Language.'
+#   keywords: instant,privacy
+# - name: Translate
+#   link: '/solutions/translate'
+#   hero: /solutions/images/translate.png
+#   summary: 'Your content translated into sign languages, presented by avatars and Digital Twins.'
+

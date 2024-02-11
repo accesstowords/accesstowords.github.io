@@ -1,0 +1,105 @@
+* {
+  &, &::before, &::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    outline: 0;
+  }
+}
+html, body {
+  scroll-behavior: smooth;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+body {
+  font-family: $font;
+  line-height: 1.5;
+  font-size: 16px;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  justify-content: space-between;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+main {
+  flex: 1;
+  transition: transform 0.3s ease-in;
+  min-height: 50vh;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: 0;
+  line-height: normal;
+  font-weight: 500;
+}
+h1 {
+  font-size: 1.8rem;
+}
+h2 {
+  font-size: 1.6rem;
+}
+h3 {
+  font-size: 1.4rem;
+}
+h4, h5 {
+  font-size: 1.2rem;
+  font-size: 1.2rem;
+}
+h6 {
+  font-size: 1rem;
+}
+
+ol, ul {
+  // list-style: none;
+  padding: 20px;
+  color: inherit;
+}
+
+a {
+  text-decoration: none;
+  &:hover,
+  &:focus {
+    text-decoration: none;
+    outline: 0;
+    opacity: 0.8;
+  }
+}
+
+img {
+  border: 0;
+  padding: 0;
+  margin: 0;
+  max-width: 100%;
+}
+
+p {
+  line-height: 1.6;
+  padding: 1rem 0;
+  margin-bottom: 0;
+  &:empty {
+    display: none;
+  }
+  &.p {
+    padding: 0.33rem 0;
+  }
+}
+footer, nav {
+  background-color: $theme;
+}
+nav {
+  p {
+    padding: 0 1rem;
+    @media screen and (max-width: 991px) {
+      text-align: left !important;
+      padding-top: 1rem;
+    }
+  }
+}
+
+footer {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  transition: transform 0.3s ease-in;
+}

@@ -1,0 +1,55 @@
+$path: '/fonts/poppins-v9-latin-';
+
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Poppins Regular'), local('Poppins-Regular'),
+  url('#{$path}regular.woff2') format('woff2'), 
+  url('#{$path}regular.woff') format('woff'), 
+}
+
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Poppins Italic'), local('Poppins-Italic'),
+  url('#{$path}italic.woff2') format('woff2'), 
+  url('#{$path}italic.woff') format('woff'), 
+}
+
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Poppins Medium'), local('Poppins-Medium'),
+  url('#{$path}500.woff2') format('woff2'), 
+  url('#{$path}500.woff') format('woff'),
+}
+
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 500;
+  src: local('Poppins Medium Italic'), local('Poppins-MediumItalic'),
+  url('#{$path}500italic.woff2') format('woff2'), 
+  url('#{$path}500italic.woff') format('woff'), 
+}
+
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Poppins Bold'), local('Poppins-Bold'),
+  url('#{$path}700.woff2') format('woff2'), 
+  url('#{$path}700.woff') format('woff'),
+}
+
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Poppins Bold Italic'), local('Poppins-BoldItalic'),
+  url('#{$path}700italic.woff2') format('woff2'), 
+  url('#{$path}700italic.woff') format('woff'), 
+}
