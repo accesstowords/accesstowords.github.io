@@ -13,13 +13,11 @@ They say that all anger stems from surprise.  And find out about developments 
 
 Something as simple as a QR code can help Deaf residents have access to the same information as everyone else, enabling them to partake in the planning process during the consultation period.
 
-Robotica will help you by translating your information into British Sign Language, so that your departmental communications become inclusive, and contribute towards compliance with accessibility laws, whilst demonstrating your commitment to serving diverse audiences.
-
 ![QR Code](/posts/images/qr-contact.png)
 
 We can help you to make make sure everyone who needs to knows about planning applications.
 
-## Robotica will help you by translating your information into British Sign Language, so that your departmental communications become inclusive, and contribute towards compliance with accessibility laws, whilst demonstrating your commitment to serving diverse audiences
+## Access to Words will help you by translating your information into accessible and international formats, including British Sign Language, easy-read and spoken word, so that your departmental communications become inclusive, and contribute towards compliance with accessibility laws, whilst demonstrating your commitment to serving diverse audiences
 
 <br/>
 

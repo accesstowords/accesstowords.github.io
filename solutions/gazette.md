@@ -1,9 +1,9 @@
 ---
-title: Robotica Gazette 
+title: Access to Words Gazette 
 layout: solutionsubpage
 ---
 
-# Public information and notices can become accessible to Deaf sign language users by adding a Robotica Gazette QR code
+# Public information and notices can become accessible to Deaf sign language users by adding a Access to Words accesible communication QR code
 
 Gazette provides a glimpse into the future of public information delivery.  Supplement information signs, leaflets, brochures, and all printed material with a Gazette QR Code to present the information directly on the end users’ own phone, in spoken, written and sign language forms. Gazette increases user-engagement insight, while simultaneously ensuring sign language users are able to enjoy the experience with equity to hearing and reading visitors. No app download is required. Gazette utilises the built-in camera and web browsers apps. And no personal information collected -  Gazette is considerate of privacy, and compliant with data-collection regulations.
 

@@ -6,7 +6,7 @@ layout: posts
 
 ## Engage Dashboard - See how your visitors engage with your estate
 
-The Robotica Engage dashboard is a sophisticated machine learning platform that helps you to see how your visitors engage with your estate, learn how they spend their time and profile their activities so that you can magnify their experience. It silently makes a note of who interacts, looks at your notices, videos and promotions and automated services, without collecting any personally identifiable information (PII) or installing an app, preserving their confidentiality and ensuring frictionless access to the information you wish to present to them. We help you understand your visitors: where they are when they engage with you, how long they spend on each information asset, even which languages they speak!
+The Access to Words Engage dashboard is a sophisticated machine learning platform that helps you to see how your visitors engage with your estate, learn how they spend their time and profile their activities so that you can magnify their experience. It silently makes a note of who interacts, looks at your notices, videos and promotions and automated services, without collecting any personally identifiable information (PII) or installing an app, preserving their confidentiality and ensuring frictionless access to the information you wish to present to them. We help you understand your visitors: where they are when they engage with you, how long they spend on each information asset, even which languages they speak!
 
 
 ## Actionable Insights

@@ -1,27 +1,27 @@
 ---
-title: Robotica Situation
+title: Access to Words Ride on Time
 layout: solutionsubpage
 image: /solutions/images/situation-platform-edge.png
 ---
 
-# Situation presents live announcements and interuptions as sign language
+# Ride on Time presents live announcements and interuptions as sign language
 
-![Situation - Rail sign warning of approaching train](/solutions/images/situation-platform-edge.png)
+![Ride on Time - Rail sign warning of approaching train](/solutions/images/situation-platform-edge.png)
 
 ## Situational-aware information, and virtual help-points in BSL and English, available directly on visitors’ phones
 
-Situation is a highly scalable, cost-effective solution that supports visitors by presenting location-specific and service-specific information, on-demand, as written, spoken, and signed languages. Visitors simply scan a QR code, and Situation works out where they are and what is most important for them to know at that time.
+Ride on Time is a highly scalable, cost-effective solution that supports visitors by presenting location-specific and service-specific information, on-demand, as written, spoken, and signed languages. Visitors simply scan a QR code, and Ride on Time works out where they are and what is most important for them to know at that time.
 Extend, supplement and replace your customer help points in busy transport hubs, hospitals, museums, government buildings and retail complexes. Fulfil your responsibility to keep visitors informed of changing information, such as arrivals and departures, platform changes, and promotional offers. Context-sensitive translations, video relay, web chat and summoning in-person support may all be specified to facilitate the roll out of low cost, high-value help points.
-No app download is required: Situation utilises the built-in camera and web browsers apps. And no personal information collected: Situation is considerate of privacy, and compliant with data-collection regulations
+No app download is required: Ride on Time utilises the built-in camera and web browsers apps. And no personal information collected: Ride on Time is considerate of privacy, and compliant with data-collection regulations
 
-![Situation - Two boys in conversaton](/images/deaf-children.png)
+![Ride on Time - Two boys in conversaton](/images/deaf-children.png)
 
 ## What’s wrong with written words?
 
 Individuals who are born and raised without hearing develop the ability to communicate using gestures, facial expressions, and body language. For them, a visual language like British Sign Language often serves as their primary or exclusive means of communication, becoming the language of their inner thoughts. In such cases, traditional written and spoken words might offer limited assistance, if any.
 Experience heightened engagement, gain the ability to make confident decisions, and foster inclusivity with Gazette.
 
-![Situation - Young adults using sign language](/images/deaf-young-adults.png)
+![Ride on Time - Young adults using sign language](/images/deaf-young-adults.png)
 
 ## Create an inclusive environment
 

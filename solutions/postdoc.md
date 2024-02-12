@@ -1,23 +1,24 @@
 ---
-title: Robotica Correspondent
+title: PostDoc
 layout: solutionsubpage
 image: /images/deaf-children.png
 ---
 
-## Public information and notices can become accessible to Deaf sign language users by adding a Robotica Gazette QR code
+## Public information and notices can become accessible to Deaf sign language users by adding an Access to Words accessible communication QR code
 
-Robotica Correspondent delivers customer-specific information in sign language, as hyperlinks or QR codes on the web, in email, and in posted letters.
+Access to Words PostDoc delivers customer-specific information in sign language, as hyperlinks or QR codes on the web, in email, and in posted letters.
 
-## Postal letters and emails translated into BSL on customers’ phones or computers. 
+## Postal letters and emails translated into BSL on customers’ phones or computers
 
-Correspondent brings sign language versions of personalised correspondence. Supporting your mass-mail and mail-merge operations, we add a unique QR code to each paper document, or a unique hyperlink to each email. The recipient may securely access your communication in British Sign Language and, optionally, as spoken and written English. App-less QR code inclusively delivers customer correspondence in sign language directly on the customers’ phone.
-## What is Correspondent?
+PostDoc brings sign language versions of personalised correspondence. Supporting your mass-mail and mail-merge operations, we add a unique QR code to each paper document, or a unique hyperlink to each email. The recipient may securely access your communication in British Sign Language and, optionally, as spoken and written English. App-less QR code inclusively delivers customer correspondence in sign language directly on the customers’ phone.
 
-Correspondent brings sign language versions of personalised mail correspondence. Supporting your mass-mail and mail-merge operations, we add a unique QR code to each paper document, or a unique hyperlink to each email. The recipient may securely access your communication in British Sign Language and, optionally, as spoken and written English. App-less QR code inclusively delivers customer correspondence in sign language directly on the customers’ phone.
+## What is PostDoc?
+
+PostDoc brings sign language versions of personalised mail correspondence. Supporting your mass-mail and mail-merge operations, we add a unique QR code to each paper document, or a unique hyperlink to each email. The recipient may securely access your communication in British Sign Language and, optionally, as spoken and written English. App-less QR code inclusively delivers customer correspondence in sign language directly on the customers’ phone.
 
 # Postal letters and emails translated into BSL on customers’ phones or computers
 
-![Correspondent - NHS letter with a QR Code](/solutions/images/correspondent-nhs.png)
+![PostDoc - NHS letter with a QR Code](/solutions/images/correspondent-nhs.png)
 
 ## QR codes
 
@@ -26,14 +27,14 @@ Seamlessly accessible, QR codes require no additional app downloads or special p
 Experience the convenience of using QR codes to direct users to web pages without the need for manual typing. Scan a QR code and unlock a world of possibilities, from texts and videos to social media, games, and more.
 Gazette takes this concept to the next level by incorporating cutting-edge engagement analytics, elevating the user experience to new heights.
 
-![Correspondent - Two boys in conversaton](/images/deaf-children.png)
+![PostDoc - Two boys in conversaton](/images/deaf-children.png)
 
 ## What’s wrong with written words?
 
 Individuals who are born and raised without hearing develop the ability to communicate using gestures, facial expressions, and body language. For them, a visual language like British Sign Language often serves as their primary or exclusive means of communication, becoming the language of their inner thoughts. In such cases, traditional written and spoken words might offer limited assistance, if any.
 Experience heightened engagement, gain the ability to make confident decisions, and foster inclusivity with Gazette.
 
-![Correspondent - Young adults using sign language](/images/deaf-young-adults.png)
+![PostDoc - Young adults using sign language](/images/deaf-young-adults.png)
 
 ## Create an inclusive environment
 

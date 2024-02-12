@@ -33,9 +33,9 @@ On the flip side, when organisations prioritise accessible customer communicatio
 \
 **Taking Action: Steps to Improve Customer Communications**
 
-* **-**  **Audit Current Communication Channels**: Begin by assessing your current communication channels and identifying areas for improvement. Are your messages clear, concise, and easily understood? Are you providing multiple avenues for customers to reach out? [We have a free audit framework available -just ask!](mailto:info@robotica.ml?subject=Please send me your free audit framework)
+* **-**  **Audit Current Communication Channels**: Begin by assessing your current communication channels and identifying areas for improvement. Are your messages clear, concise, and easily understood? Are you providing multiple avenues for customers to reach out? [We have a free audit framework available -just ask!](mailto:info@accesstowords.co.uk?subject=Please send me your free audit framework)
 
-* **-**  **Invest in Technology**: Leverage technology to enhance accessibility. Your digital and physic presence can be enhanced support the accessibility requirements of your customers. Even printer media such as [posted letters](/solutions/correspondent.md) and [static signs](/solutions/gazette.md) can be used to deliver digital channels without the need to install [screens](/solutions/situation.md).
+* **-**  **Invest in Technology**: Leverage technology to enhance accessibility. Your digital and physic presence can be enhanced support the accessibility requirements of your customers. Even printer media such as [posted letters](/solutions/correspondent.md) and [static signs](/solutions/gazette.md) can be used to deliver digital channels without the need to install [screens](/solutions/helm.md).
 
 * **-**  **Training and Education**: Equip your customer service teams with the skills and knowledge to communicate effectively. Invest in ongoing training that emphasises active listening, empathy, and clear communication. For example, is everyone involved in public communications [deaf aware](big-d-little-d-what-does-that-mean) and undestand [why written words, such as captions or subtitles often are inappropraite?](/posts/bsl-is-the-preferred-language-of-87000-people-reading-is-not-always-an-option)
 

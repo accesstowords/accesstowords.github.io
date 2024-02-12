@@ -16,7 +16,7 @@ Something as simple as a QR code can help Deaf residents have access to the same
 
 ![QR Code](/posts/images/qr-contact.png)
 
-## Robotica will help you by translating your information into British Sign Language, so that your departmental communications become inclusive, and contribute towards compliance with accessibility laws, whilst demonstrating your commitment to serving diverse audiences
+## Access to Words will help you by translating your information into accessible and international formats, including British Sign Language, easy-read and spoken word, so that your departmental communications become inclusive, and contribute towards compliance with accessibility laws, whilst demonstrating your commitment to serving diverse audiences
 
 <br/>
 
