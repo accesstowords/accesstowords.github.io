@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Accessible Communications at Scale: Sign Language, Easy-Read, Spoken Word, Foreign Languages"
+title: "Accessible Communications at Scale: Sign Language, Easy-Read, Spoken Word, International Languages"
 description: Our platform supports your ambition to create a fully inclusive environment, where more people are included and feel welcome. We can help you to maximise customer numbers, deepen and broaden engagement, and efficiently extend the value of your communications to increase ROI and profitability.
 ---
 <div class="section winbiz-hero-section-3">

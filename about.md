@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: 'Accessible Communications at Scale: Sign Language, Easy-Read, Spoken Word, Foreign Languages'
+title: 'Accessible Communications at Scale: Sign Language, Easy-Read, Spoken Word, International Languages'
 button: 
   text: Request a demo
   url: "/contact"
