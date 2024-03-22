@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-02-16T15:41:02+00:00</lastmod>
+		<lastmod>2024-03-22T11:45:47+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/coin-768x761.png</image:loc>
 		</image:image>
@@ -105,6 +105,25 @@
 	<url>
 		<loc>/postdoc/</loc>
 		<lastmod>2024-02-21T11:20:03+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/bsl-wide.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/typeface-wide.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/spokenword-wide.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/easyread-wide.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/reach-every-citizen-bookings/</loc>
+		<lastmod>2024-03-22T13:50:40+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/primarylogo-300x85.png</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/bsl-wide.png</image:loc>
 		</image:image>
